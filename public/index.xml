@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emanuele Penocchio</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Emanuele Penocchio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Emanuele Penocchio</copyright>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FNR Award!</title>
+      <link>//localhost:1313/about/fnr/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/fnr/</guid>
+      <description>I received the 2023 FNR award for outstanding PhD thesis!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/fnr/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Ruth Lynden-Bell PhD Prize!</title>
+      <link>//localhost:1313/about/lynden-bell/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/lynden-bell/</guid>
+      <description>Humbled to receive the 2024 SMTG Ruth Lynden-Bell PhD prize!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/lynden-bell/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Tarrach Award!</title>
+      <link>//localhost:1313/about/tarrach/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/tarrach/</guid>
+      <description>I am very humble to receive the 2023 Tarrach Award!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/tarrach/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Molecular Ratcheteers!</title>
+      <link>//localhost:1313/about/rsc_horizon/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/rsc_horizon/</guid>
+      <description>My role in the team was pretending to write the SI in latex&amp;hellip; but here&amp;rsquo;s something to be super happy about: Together with my fantastic collaborators, we won the 2023 Royal Society of Chemistry Horizon Prize for Physical Organic Chemistry &amp;ldquo;for breakthroughs in catalysed non-equilibrium systems, particularly molecular ratchet mechanisms, that have provided fundamental insights into the dynamics of matter.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/rsc_horizon/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>2022 Foresight Institute Student Award!</title>
+      <link>//localhost:1313/about/feynman/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/feynman/</guid>
+      <description>Delighted by receiving the 2022 Foresight Institute Student Award.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/feynman/featured.png" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/papers/</guid>
+      <description>MY PUBBLICATION LIST * = corresponding or co-corresponding author</description>
+      
+    </item>
+    
+    <item>
+      <title>Coarse-grained Simulations</title>
+      <link>//localhost:1313/topics/coarsegrainedsimulations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/topics/coarsegrainedsimulations/</guid>
+      <description> :construction: UNDER CONSTRUCTION :construction: </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/topics/coarsegrainedsimulations/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Design Principles of Molecular Ratchets</title>
+      <link>//localhost:1313/topics/artificialmolecularratchets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/topics/artificialmolecularratchets/</guid>
+      <description>Can we apply the design principles of molecular motors to understand and realize molecular systems and soft materials with broader functionalities?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/topics/artificialmolecularratchets/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Nonequilibrium Thermodynamics of Chemical Reaction Networks</title>
+      <link>//localhost:1313/topics/nonequilibriumthermo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/topics/nonequilibriumthermo/</guid>
+      <description>The nonequilibrium thermodynamic theory for chemical reaction networks is uncompleted.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/topics/nonequilibriumthermo/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
