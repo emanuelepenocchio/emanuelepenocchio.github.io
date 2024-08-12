@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emanuelepenocchio.github.io/sitemap.xml
