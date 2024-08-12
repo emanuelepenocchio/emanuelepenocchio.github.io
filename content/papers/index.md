@@ -1,4 +1,4 @@
-## MY PUBBLICATION LIST
+## MY PUBLICATION LIST
 
 \* = corresponding or co-corresponding author
 
