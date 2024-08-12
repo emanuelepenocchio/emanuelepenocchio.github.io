@@ -16,7 +16,7 @@ Below is a little bit more about my academic career so far. Thanks for visiting 
 `present`
 __Postdoctoral scholar__, Northwestern University
 
-`1st April 2022 - 31 August 2022` 
+`2022` 
 __Postdoctoral scholar__, University of Luxembourg
 
 
