@@ -46,7 +46,7 @@ __SMTG Ruth Lynden-Bell PhD prize__, Royal Society of Chemistry
 
 <span style="font-size:10pt;">
 International prize awarded on a biannual basis by the Statistical Mechanics and Thermodynamics Group of the Royal Society of Chemistry to the best PhD thesis in the field of statistical mechanics and thermodynamics.
-[webpage](https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/statistical-mechanics/awards/)
+[<a href="https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/statistical-mechanics/awards/">website</a>)]
 </span>
 
 `2023`
