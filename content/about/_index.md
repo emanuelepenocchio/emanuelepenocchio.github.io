@@ -54,7 +54,7 @@ __FNR Award for Outstanding PhD Thesis__,  Luxembourg National Research Fund
 
 <span style="font-size:10pt;">
 National award attributed yearly by the Luxembourg National Research Fund (FNR) to the best PhD thesis across all disciplines.
-<a href="https://www.fnr.lu/fnr-awards-2023-discover-the-winners/">website</a>]
+[<a href="https://www.fnr.lu/fnr-awards-2023-discover-the-winners/">website</a>]
 </span>
 
 `2023`
@@ -106,7 +106,7 @@ The Institute’s mission is to catalyze collaboration among leading young scien
 __Full-ride scholarship__, _Scuola Normale Superiore_
 
 <span style="font-size:10pt;">
-The [<em>Scuola Normale Superiore</em>](https://www.sns.it/en/la-normale-si-presenta) (SNS) is a public higher education institution in Pisa, analogue to the <em>École normale supérieure</em> in France.
+The [<a href="https://www.sns.it/en/la-normale-si-presenta"><em>Scuola Normale Superiore</em></a>]) (SNS) is a public higher education institution in Pisa, analogue to the <em>École normale supérieure</em> in France.
 Students are admitted by a national selection with top 5\% acceptance rate and have to complete extra advanced coursework on top of the standard program at the University of Pisa.
 Joining the SNS community was a breakthrough in my education and I am willing to share my experience and advice to Italian and International students interested to learn more.
 </span>
@@ -115,7 +115,7 @@ Joining the SNS community was a breakthrough in my education and I am willing to
 __Full-ride scholarship__, University of Bologna
 
 <span style="font-size:10pt;">
-The [<em>Collegio Superiore</em>](https://site.unibo.it/collegio-superiore/en) is the honors program of the University of Bologna.
+The [<a href="https://site.unibo.it/collegio-superiore/en"><em>Collegio Superiore</em></a>] is the honors program of the University of Bologna.
 Admission is grounded on a national selection and students have to complete extra advanced coursework on top of the standard university classes.
 At the University of Bologna only about one student out of a thousand across all disciplines belongs to this program.
 It was an invaluable opportunity to enrich my Bachelor's study and meet long-standing friends; I am happy to share my experience and advice to Italian and International students interested in this program.
