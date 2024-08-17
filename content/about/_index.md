@@ -45,14 +45,16 @@ __BSc in Chemistry__, University of Bologna
 __SMTG Ruth Lynden-Bell PhD prize__, Royal Society of Chemistry
 
 <span style="font-size:10pt;">
-International prize awarded on a biannual basis by the Statistical Mechanics and Thermodynamics Group of the Royal Society of Chemistry to the best PhD thesis in the field of statistical mechanics and thermodynamics. \[[webpage](https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/statistical-mechanics/awards/)\]
+International prize awarded on a biannual basis by the Statistical Mechanics and Thermodynamics Group of the Royal Society of Chemistry to the best PhD thesis in the field of statistical mechanics and thermodynamics.
+[webpage](https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/statistical-mechanics/awards/)
 </span>
 
 `2023`
 __FNR Award for Outstanding PhD Thesis__,  Luxembourg National Research Fund
 
 <span style="font-size:10pt;">
-National award attributed yearly by the Luxembourg National Research Fund (FNR) to the best PhD thesis across all disciplines. \[[webpage](https://www.fnr.lu/fnr-awards-2023-discover-the-winners/)\]
+National award attributed yearly by the Luxembourg National Research Fund (FNR) to the best PhD thesis across all disciplines.
+[webpage](https://www.fnr.lu/fnr-awards-2023-discover-the-winners/)
 </span>
 
 `2023`
@@ -60,7 +62,7 @@ __Rolf Tarrach Award__, _Les Amis de l’Université du Luxembourg_
 
 <span style="font-size:10pt;">
 University award attributed yearly by the non-profit association _les Amis de l'Université du Luxembourg_ (Friends of the University of Luxembourg) to the best PhD thesis across all disciplines.
-\[[webpage](https://www.uni.lu/en/news/rolf-tarrach-prize-2023-for-physicist-dr-emanuele-penocchio/)\]
+[webpage](https://www.uni.lu/en/news/rolf-tarrach-prize-2023-for-physicist-dr-emanuele-penocchio/)
 </span>
 
 `2023`
@@ -69,7 +71,7 @@ __Perkin Prize in Physical Organic Chemistry__, Royal Society of Chemistry
 <span style="font-size:10pt;">
 Shared international prize awarded yearly by the Royal Society of Chemistry to recognize a significant recent novel discovery or advance made in the field of physical organic chemistry.
 The prize is awarded to the collaboration behind the discovery.
-\[[webpage](https://www.rsc.org/prizes-funding/prizes/2023-winners/the-molecular-ratcheteers/)\]
+[webpage](https://www.rsc.org/prizes-funding/prizes/2023-winners/the-molecular-ratcheteers/)
 </span>
 
 `2022`
@@ -77,7 +79,7 @@ __Foresight Institute Distinguished Student Award__, Foresight Institute
 
 <span style="font-size:10pt;">
 International award attributed yearly by the Foresight institute to the College graduate or undergraduate student whose work is considered most notable in advancing the development and understanding of nanotechnology.
-\[[webpage](https://foresight.org/foresight-feynman-prizes/)\]
+[webpage](https://foresight.org/foresight-feynman-prizes/)
 </span>
 
 `2022`
