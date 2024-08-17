@@ -95,7 +95,7 @@ A Northwestern University program to help prepare extraordinary postdoctoral sch
 </span>
 
 `2024`
-__Fellow of the [Foresight Institute](https://foresight.org/technologies/nanotech-molecular-machines/)__, Foresight Institute
+__Fellow of the Foresight Institute__, Foresight Institute
 
 <span style="font-size:10pt;">
 The Foresight Fellowship is a one-year program committed to giving change-makers the support to accelerate their bold ideas into the future.
