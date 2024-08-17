@@ -1,5 +1,5 @@
 Ciao!
-I'm Emanuele Penocchio, a physical chemist particularly interested in nonequilibrim systems.
+I'm Emanuele Penocchio, a physical chemist particularly interested in nonequilibrium systems.
 I am currently a Postdoctoral Scholar in the [Gingrich Group](https://gingrich.chem.northwestern.edu/) at the Department of Chemistry of Northwestern University working in theoretical and computational statistical mechanics.
 As an undergraduate student in Chemistry, I got so fascinated by molecular motors that I decided to take a PhD in Physics to understand how they work.
 
@@ -42,19 +42,43 @@ __BSc in Chemistry__, University of Bologna
 
 
 `2024`
-[__SMTG Ruth Lynden-Bell PhD prize__](https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/statistical-mechanics/awards/), Royal Society of Chemistry
+__SMTG Ruth Lynden-Bell PhD prize__, Royal Society of Chemistry
+
+<span style="font-size:10pt;">
+International prize awarded on a biannual basis by the Statistical Mechanics and Thermodynamics Group of the Royal Society of Chemistry to the best PhD thesis in the field of statistical mechanics and thermodynamics. \[[webpage](https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/statistical-mechanics/awards/)\]
+</span>
 
 `2023`
-[__FNR Award for Outstanding PhD Thesis__](https://www.fnr.lu/fnr-awards-2023-discover-the-winners/), Luxembourg National Research Fund
+__FNR Award for Outstanding PhD Thesis__,  Luxembourg National Research Fund
+
+<span style="font-size:10pt;">
+National award attributed yearly by the Luxembourg National Research Fund (FNR) to the best PhD thesis across all disciplines. \[[webpage](https://www.fnr.lu/fnr-awards-2023-discover-the-winners/)\]
+</span>
 
 `2023`
-[__Rolf Tarrach Award__](https://www.uni.lu/en/news/rolf-tarrach-prize-2023-for-physicist-dr-emanuele-penocchio/#:~:text=The%20Association%20), _Les Amis de l’Université du Luxembourg_
+__Rolf Tarrach Award__, _Les Amis de l’Université du Luxembourg_
+
+<span style="font-size:10pt;">
+University award attributed yearly by the non-profit association _les Amis de l'Université du Luxembourg_ (Friends of the University of Luxembourg) to the best PhD thesis across all disciplines.
+\[[webpage](https://www.uni.lu/en/news/rolf-tarrach-prize-2023-for-physicist-dr-emanuele-penocchio/)\]
+</span>
 
 `2023`
-[__Horizon Prize for Physical Organic Chemistry__](https://www.rsc.org/prizes-funding/prizes/2023-winners/the-molecular-ratcheteers/#undefined), Royal Society of Chemistry
+__Perkin Prize in Physical Organic Chemistry__, Royal Society of Chemistry
+
+<span style="font-size:10pt;">
+Shared international prize awarded yearly by the Royal Society of Chemistry to recognize a significant recent novel discovery or advance made in the field of physical organic chemistry.
+The prize is awarded to the collaboration behind the discovery.
+\[[webpage](https://www.rsc.org/prizes-funding/prizes/2023-winners/the-molecular-ratcheteers/)\]
+</span>
 
 `2022`
-[__Foresight Institute Distinguished Student Award__](https://foresight.org/foresight-feynman-prizes/), Foresight Institute
+__Foresight Institute Distinguished Student Award__, Foresight Institute
+
+<span style="font-size:10pt;">
+International award attributed yearly by the Foresight institute to the College graduate or undergraduate student whose work is considered most notable in advancing the development and understanding of nanotechnology.
+\[[webpage](https://foresight.org/foresight-feynman-prizes/)\]
+</span>
 
 `2022`
 __Excellent Thesis Award__, University of Luxembourg
@@ -77,19 +101,22 @@ The Institute’s mission is to catalyze collaboration among leading young scien
 </span>
 
 `2014 - 2016`
-__Student of__ [__Scuola Normale Superiore__](https://www.sns.it/en/la-normale-si-presenta), _Scuola Normale Superiore_
+__Full-ride scholarship__, _Scuola Normale Superiore_
 
 <span style="font-size:10pt;">
-The <em>Scuola Normale Superiore</em> is a public higher education institution in Pisa, analogue to the <em>École normale supérieure</em> in France.
-Students are admitted by a national selection with top 5% acceptance rate.
+The [<em>Scuola Normale Superiore</em>](https://www.sns.it/en/la-normale-si-presenta) (SNS) is a public higher education institution in Pisa, analogue to the <em>École normale supérieure</em> in France.
+Students are admitted by a national selection with top 5\% acceptance rate and have to complete extra advanced coursework on top of the standard program at the University of Pisa.
+Joining the SNS community was a breakthrough in my education and I am willing to share my experience and advice to Italian and International students interested to learn more.
 </span>
 
 `2011-2014`
-__Student of__ [__Collegio Superiore__](https://site.unibo.it/collegio-superiore/en), University of Bologna
+__Full-ride scholarship__, University of Bologna
 
 <span style="font-size:10pt;">
-<em>Collegio Superiore</em> is the honours program of Bologna University. Admission is grounded on a national selection; at
-Bologna University only about one student out of a thousand across all disciplines belongs to this institution.
+The [<em>Collegio Superiore</em>](https://site.unibo.it/collegio-superiore/en) is the honors program of the University of Bologna.
+Admission is grounded on a national selection and students have to complete extra advanced coursework on top of the standard university classes.
+At the University of Bologna only about one student out of a thousand across all disciplines belongs to this program.
+It was an invaluable opportunity to enrich my Bachelor's study and meet long-standing friends; I am happy to share my experience and advice to Italian and International students interested in this program.
 </span>
 
 ### NEWS
