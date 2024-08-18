@@ -19,7 +19,11 @@ __ChemRxiv__-2024-rjbdc (2024).
 
 `in print`
 
-<ins>Penocchio E.</ins>\*, Bachir A.<sup>+</sup>, Credi A., Astumian R. D.\* & Ragazzon G.\*, 
+Yang Z., Wang X., <ins>Penocchio E.</ins>\*, Ragazzon G.\*, Chen X., Lu S., Zhou Y., Fu K., Liu Z., Cai Y., Yu X.\*, Li X., Li
+X.\*, Feng W. & Yuan L.\*. "[Beyond Single-Cycle Autonomous Molecular Machines: Light-Powered Shuttling in Multi-Cycle
+Reaction Network](ihttps://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202414072)". __Angew. Chem. Int. Ed.__, in production (2024).
+
+<ins>Penocchio E.</ins>\*, Bachir A.<sup>+</sup>, Credi A., Astumian R.D.\* & Ragazzon G.\*, 
 “Analysis of kinetic asymmetry in a multi-cycle reaction network establishes the principles for autonomous compartmentalized molecular ratchets” 
 __Chem__ , in production (2024).
 [:unlock:](https://chemrxiv.org/engage/chemrxiv/article-details/65d22ce7e9ebbb4db9a1e9ca)
