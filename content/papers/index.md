@@ -22,14 +22,15 @@ __ChemRxiv__-2024-1kbcw (2024).
 __ChemRxiv__-2024-rjbdc-v2 (2024).
 [:movie_camera:](https://www.youtube.com/watch?v=csrnRe6KuZo)
 
-`in print`
+`in press`
 
 23.&nbsp; <ins>Penocchio E.</ins>\*, Bachir A.<sup>+</sup>, Credi A., Astumian R.D.\* & Ragazzon G.\*, 
 “[Analysis of kinetic asymmetry in a multi-cycle reaction network establishes the principles for autonomous compartmentalized molecular ratchets](https://doi.org/10.1016/j.chempr.2024.07.038)” 
 __Chem__ (2024).
 [:unlock:](https://doi.org/10.1016/j.chempr.2024.07.038)
+[:newspaper:](https://www.chemistryviews.org/role-of-compartmentalization-in-life-like-chemical-systems/)
 
-<!--*No papers in print right now.*-->
+<!--*No papers in press right now.*-->
 
 `2024`
 
