@@ -18,25 +18,26 @@ __ChemRxiv__-2024-1kbcw (2024).
 
 
 <ins>Penocchio E.</ins>\*, Gu G., Albaugh A. & Gingrich R.T.\*, 
-“[Power strokes in molecular motors: predictive, irrelevant, or somewhere in between?](https://doi.org/10.26434/chemrxiv-2024-rjbdc)” 
-__ChemRxiv__-2024-rjbdc (2024).
+“[Power strokes in molecular motors: predictive, irrelevant, or somewhere in between?](https://doi.org/10.26434/chemrxiv-2024-rjbdc-v2)” 
+__ChemRxiv__-2024-rjbdc-v2 (2024).
 [:movie_camera:](https://www.youtube.com/watch?v=csrnRe6KuZo)
 
 `in print`
 
-*No papers in print right now.*
+23.&nbsp; <ins>Penocchio E.</ins>\*, Bachir A.<sup>+</sup>, Credi A., Astumian R.D.\* & Ragazzon G.\*, 
+“[Analysis of kinetic asymmetry in a multi-cycle reaction network establishes the principles for autonomous compartmentalized molecular ratchets](https://doi.org/10.1016/j.chempr.2024.07.038)” 
+__Chem__ (2024).
+[:unlock:](https://doi.org/10.1016/j.chempr.2024.07.038)
+
+<!--*No papers in print right now.*-->
 
 `2024`
 
-23.&nbsp; Yang Z., Wang X., <ins>Penocchio E.</ins>\*, Ragazzon G.\*, Chen X., Lu S., Zhou Y., Fu K., Liu Z., Cai Y., Yu X.\*, Li X., Li
+22.&nbsp; Yang Z., Wang X., <ins>Penocchio E.</ins>\*, Ragazzon G.\*, Chen X., Lu S., Zhou Y., Fu K., Liu Z., Cai Y., Yu X.\*, Li X., Li
 X.\*, Feng W. & Yuan L.\*. "[Beyond Single-Cycle Autonomous Molecular Machines: Light-Powered Shuttling in Multi-Cycle
 Reaction Network](ihttps://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202414072)". __Angew. Chem. Int. Ed.__ e202414072 (2024).
 [:unlock:](https://onlinelibrary.wiley.com/doi/10.1002/anie.202414072)
 
-22.&nbsp; <ins>Penocchio E.</ins>\*, Bachir A.<sup>+</sup>, Credi A., Astumian R.D.\* & Ragazzon G.\*, 
-“[Analysis of kinetic asymmetry in a multi-cycle reaction network establishes the principles for autonomous compartmentalized molecular ratchets](https://doi.org/10.1016/j.chempr.2024.07.038)” 
-__Chem__ (2024).
-[:unlock:](https://doi.org/10.1016/j.chempr.2024.07.038)
 
 21.&nbsp; Avanzini F., Bilancioni M., Cavina V., Dal Cengio S., Esposito M., Falasco G., Forastiere D., Freitas N., Garilli A., Harunari P. E., Lecomte V., Lazarescu A., Marehalli Srinivas S. G., Moslonka C., Neri I., <ins>Penocchio E.</ins>, Piñeros W. D., Polettini M., Raghu A., Raux P., Sekimoto K. & Soret A., 
 “[Methods and Conversations in (Post)Modern Thermodynamics](https://www.scipost.org/SciPostPhysLectNotes.80?acad_field_slug=chemistry)”, 
