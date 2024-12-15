@@ -17,22 +17,24 @@ Kaiyuan L.,  Nicoli F., Al Shehimy S., <ins>Penocchio E.</ins>\*, Di Noja S., Li
 __ChemRxiv__-2024-1kbcw (2024).
 
 
-<ins>Penocchio E.</ins>\*, Gu G., Albaugh A. & Gingrich R.T.\*, 
-“[Power strokes in molecular motors: predictive, irrelevant, or somewhere in between?](https://doi.org/10.26434/chemrxiv-2024-rjbdc-v2)” 
-__ChemRxiv__-2024-rjbdc-v2 (2024).
-[:movie_camera:](https://www.youtube.com/watch?v=csrnRe6KuZo)
-
 `in press`
 
-23.&nbsp; <ins>Penocchio E.</ins>\*, Bachir A.<sup>+</sup>, Credi A., Astumian R.D.\* & Ragazzon G.\*, 
-“[Analysis of kinetic asymmetry in a multi-cycle reaction network establishes the principles for autonomous compartmentalized molecular ratchets](https://doi.org/10.1016/j.chempr.2024.07.038)” 
-__Chem__ (2024).
-[:unlock:](https://doi.org/10.1016/j.chempr.2024.07.038)
-[:newspaper:](https://www.chemistryviews.org/role-of-compartmentalization-in-life-like-chemical-systems/)
+24.&nbsp; <ins>Penocchio E.</ins>\*, Gu G., Albaugh A. & Gingrich R.T.\*, 
+“[Power strokes in molecular motors: predictive, irrelevant, or somewhere in between?](https://doi.org/10.1021/jacs.4c14481)” 
+__J. Am. Chem. Soc.__ (2024).
+[:unlock:](https://doi.org/10.26434/chemrxiv-2024-rjbdc-v3)
+[:movie_camera:](https://www.youtube.com/watch?v=csrnRe6KuZo)
 
 <!--*No papers in press right now.*-->
 
 `2024`
+
+23.&nbsp; <ins>Penocchio E.</ins>\*, Bachir A.<sup>+</sup>, Credi A., Astumian R.D.\* & Ragazzon G.\*, 
+“[Analysis of kinetic asymmetry in a multi-cycle reaction network establishes the principles for autonomous compartmentalized molecular ratchets](https://doi.org/10.1016/j.chempr.2024.07.038)” 
+__Chem__ 10, 3644-3655 (2024).
+[:unlock:](https://doi.org/10.1016/j.chempr.2024.07.038)
+[:newspaper:](https://www.chemistryviews.org/role-of-compartmentalization-in-life-like-chemical-systems/)
+[:newspaper:](https://doi.org/10.1016/j.chempr.2024.09.032)
 
 22.&nbsp; Yang Z., Wang X., <ins>Penocchio E.</ins>\*, Ragazzon G.\*, Chen X., Lu S., Zhou Y., Fu K., Liu Z., Cai Y., Yu X.\*, Li X., Li
 X.\*, Feng W. & Yuan L.\*. "[Beyond Single-Cycle Autonomous Molecular Machines: Light-Powered Shuttling in Multi-Cycle
