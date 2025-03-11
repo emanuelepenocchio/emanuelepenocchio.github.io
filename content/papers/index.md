@@ -12,12 +12,23 @@
 
 `preprints`
 
-Kaiyuan L.,  Nicoli F., Al Shehimy S., <ins>Penocchio E.</ins>\*, Di Noja S., Li Y., Bonfio C., Borsley S., Ragazzon G.\*,
-"[Catalysis-driven active transport across a liquid membrane](https://doi.org/10.26434/chemrxiv-2024-1kbcw)"
-__ChemRxiv__-2024-1kbcw (2024).
 
+--*No preprints right now.*--
 
 `in press`
+
+
+<!--*No papers in press right now.*-->
+--*No papers in press right now.*--
+
+`2025`
+
+Kaiyuan L.,  Nicoli F., Al Shehimy S., <ins>Penocchio E.</ins>\*, Di Noja S., Li Y., Bonfio C., Borsley S., Ragazzon G.\*,
+"[Catalysis-driven active transport across a liquid membrane](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202421234)"
+__Angew. Chem. Int. Ed.__ e202421234 (2025).
+[:unlock:](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202421234)
+
+`2024`
 
 24.&nbsp; <ins>Penocchio E.</ins>\*, Gu G., Albaugh A. & Gingrich R.T.\*, 
 “[Power strokes in molecular motors: predictive, irrelevant, or somewhere in between?](https://doi.org/10.1021/jacs.4c14481)” 
@@ -25,9 +36,6 @@ __J. Am. Chem. Soc.__ (2024).
 [:unlock:](https://doi.org/10.26434/chemrxiv-2024-rjbdc-v3)
 [:movie_camera:](https://www.youtube.com/watch?v=csrnRe6KuZo)
 
-<!--*No papers in press right now.*-->
-
-`2024`
 
 23.&nbsp; <ins>Penocchio E.</ins>\*, Bachir A.<sup>+</sup>, Credi A., Astumian R.D.\* & Ragazzon G.\*, 
 “[Analysis of kinetic asymmetry in a multi-cycle reaction network establishes the principles for autonomous compartmentalized molecular ratchets](https://doi.org/10.1016/j.chempr.2024.07.038)” 
@@ -73,7 +81,7 @@ __Small__, 2206188 (2023).
 `2022`
 
 16.&nbsp; Amano S., Esposito M., Kreidt E., Leigh D.A.\*, <ins>Penocchio E.</ins>\* & Roberts B.M.W., 
-“[Using catalysis to drive chemistry away from equilibrium: Relating kinetic asymmetry, power strokes and the Curtin-Hammett principle in Brownian ratchets](https://www.youtube.com/watch?v=csrnRe6KuZo)”, 
+“[Using catalysis to drive chemistry away from equilibrium: Relating kinetic asymmetry, power strokes and the Curtin-Hammett principle in Brownian ratchets](https://pubs.acs.org/doi/full/10.1021/jacs.2c08723)”, 
 __J. Am. Chem. Soc.__ 144, 20153-20164 (2022).
 [:unlock:](https://pubs.acs.org/doi/full/10.1021/jacs.2c08723)
 
